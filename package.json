@@ -26,22 +26,25 @@
     "typecheck": "npm run typecheck:main && npm run typecheck:preload && npm run typecheck:renderer"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "5.10.0",
+    "@types/react": "^17.0.38",
+    "@types/react-dom": "^17.0.11",
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
+    "@typescript-eslint/parser": "^5.10.0",
     "@vue/test-utils": "2.0.0-rc.18",
     "cross-env": "7.0.3",
     "dts-for-context-bridge": "0.7.1",
     "electron": "16.0.7",
     "electron-builder": "22.14.5",
     "electron-devtools-installer": "3.2.0",
-    "eslint": "8.7.0",
+    "eslint": "^8.7.0",
+    "eslint-config-prettier": "^8.3.0",
     "happy-dom": "2.27.0",
     "nano-staged": "0.5.0",
     "playwright": "1.17.2",
     "simple-git-hooks": "2.7.0",
     "typescript": "4.5.4",
     "vite": "2.7.12",
-    "vitest": "0.1.20",
-    "vue-tsc": "0.30.5"
+    "vitest": "0.1.20"
   },
   "dependencies": {
     "electron-updater": "4.6.5",
