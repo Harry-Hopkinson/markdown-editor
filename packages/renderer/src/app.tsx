@@ -1,8 +1,8 @@
-import React, { useState } from "react";
+import React, {useState} from "react"
 import "./app.css"
 
 const App: React.FC = () => {
-    const [count, setCount] = useState(0);
+    const [count, setCount] = useState(0)
 
     return (
         <div className="app">
@@ -18,4 +18,4 @@ const App: React.FC = () => {
     )
 }
 
-export default App;
+export default App
