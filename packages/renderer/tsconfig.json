@@ -1,31 +1,31 @@
 {
-    "compilerOptions": {
-        "module": "esnext",
-        "target": "esnext",
-        "sourceMap": false,
-        "moduleResolution": "Node",
-        "skipLibCheck": true,
-        "strict": true,
-        "isolatedModules": true,
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "sourceMap": false,
+    "moduleResolution": "Node",
+    "skipLibCheck": true,
+    "strict": true,
+    "isolatedModules": true,
 
-        "types": [],
+    "types": [],
 
-        "baseUrl": ".",
-        "jsx": "react",
-        "allowSyntheticDefaultImports": true,
-        "paths": {
-            "/@/*": ["./src/*"]
-        },
-        "lib": ["ESNext", "dom", "dom.iterable"]
+    "baseUrl": ".",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "paths": {
+      "/@/*": ["./src/*"]
     },
+    "lib": ["ESNext", "dom", "dom.iterable"]
+  },
 
-    "include": [
-        "src/**/*.ts",
-        "src/**/*.ts",
-        "src/**/*.tsx",
-        "types/**/*.d.ts",
-        "../../types/**/*.d.ts",
-        "../preload/exposedInMainWorld.d.ts"
-    ],
-    "exclude": ["**/*.spec.ts", "**/*.test.ts"]
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "types/**/*.d.ts",
+    "../../types/**/*.d.ts",
+    "../preload/exposedInMainWorld.d.ts"
+  ],
+  "exclude": ["**/*.spec.ts", "**/*.test.ts"]
 }
