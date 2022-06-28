@@ -1768,10 +1768,10 @@ graceful-fs@^4.1.2, graceful-fs@^4.1.6, graceful-fs@^4.2.0:
   resolved "https://registry.yarnpkg.com/graceful-readlink/-/graceful-readlink-1.0.1.tgz#4cafad76bc62f02fa039b2f94e9a3dd3a391a725"
   integrity sha512-8tLu60LgxF6XpdbK8OW3FA+IfTNBn1ZHGHKF4KQbEeSkajYw5PlYJcKluntgegDPTg8UkHjpet1T82vk6TQ68w==
 
-happy-dom@5.3.2:
-  version "5.3.2"
-  resolved "https://registry.yarnpkg.com/happy-dom/-/happy-dom-5.3.2.tgz#9ed0ccceb87f988577d58a86a9fcf2afd884f91f"
-  integrity sha512-TVTS1wGeSi3oCi0gqBA97DvsvS5nOuB2GTSdQlvxQ/JgntDjXHbf/xj1VMXenLomGjm9Keu0IW5ExBXHhoE8zQ==
+happy-dom@5.3.4:
+  version "5.3.4"
+  resolved "https://registry.yarnpkg.com/happy-dom/-/happy-dom-5.3.4.tgz#5ce9d5ff2ac99edd5bc31ae09e56b8846e0d5832"
+  integrity sha512-EGVX/03ZQcWWqjorPHbUNuVM47bc56K5QtUZUAwEjc1D3e3BzrZO4TtBt+FrM0DfrirBc/Fbtz4FzpD1ohIcqQ==
   dependencies:
     css.escape "^1.5.1"
     he "^1.2.0"
