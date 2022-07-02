@@ -35,7 +35,7 @@
     "electron": "19.0.7",
     "electron-builder": "23.1.0",
     "electron-devtools-installer": "3.2.0",
-    "eslint": "8.18.0",
+    "eslint": "8.19.0",
     "eslint-config-prettier": "8.5.0",
     "happy-dom": "5.4.0",
     "nano-staged": "0.8.0",
