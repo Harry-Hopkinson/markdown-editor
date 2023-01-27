@@ -29,7 +29,7 @@
     "@types/react-dom": "18.0.10",
     "@typescript-eslint/eslint-plugin": "5.49.0",
     "@typescript-eslint/parser": "5.49.0",
-    "@vue/test-utils": "2.2.7",
+    "@vue/test-utils": "2.2.8",
     "cross-env": "7.0.3",
     "dts-for-context-bridge": "0.7.1",
     "electron": "20.2.0",
