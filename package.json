@@ -27,8 +27,8 @@
   "devDependencies": {
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
-    "@typescript-eslint/eslint-plugin": "6.4.1",
-    "@typescript-eslint/parser": "6.4.1",
+    "@typescript-eslint/eslint-plugin": "6.5.0",
+    "@typescript-eslint/parser": "6.5.0",
     "@vue/test-utils": "2.4.1",
     "cross-env": "7.0.3",
     "dts-for-context-bridge": "0.7.1",
