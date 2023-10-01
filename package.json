@@ -25,8 +25,8 @@
     "typecheck": "yarn run typecheck:main && yarn run typecheck:preload && yarn run typecheck:renderer"
   },
   "devDependencies": {
-    "@types/react": "18.2.22",
-    "@types/react-dom": "18.2.7",
+    "@types/react": "18.2.24",
+    "@types/react-dom": "18.2.8",
     "@typescript-eslint/eslint-plugin": "6.7.3",
     "@typescript-eslint/parser": "6.7.3",
     "@vue/test-utils": "2.4.1",
