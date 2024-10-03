@@ -46,7 +46,7 @@
     "vitest": "0.34.6"
   },
   "dependencies": {
-    "electron-updater": "4.6.5",
+    "electron-updater": "6.3.9",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   }
